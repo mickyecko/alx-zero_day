@@ -1,1 +1,1 @@
-“my second commit”
+i have updated my git hub
